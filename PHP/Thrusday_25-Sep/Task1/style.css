@@ -1,0 +1,47 @@
+.navbar{
+    color: black;
+    margin-left: 30px;
+    text-decoration: none;
+
+}
+.t1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 40px;
+}
+.img1{
+    height: 350px;
+    width:500px;
+    margin-left: 40px;
+}
+.container{
+    display: flex;
+    margin-top: 70px;
+}
+.box1{
+    flex: 1;
+      text-align: center;
+}
+.p1{
+    text-align: justify;
+    margin-left: 30px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.b1{
+    background-color: rgb(72, 71, 71);
+    margin-top: 40px;
+    margin-left: 30px  ;
+    color: white;
+    border-radius: 5px;
+     padding: 10px 20px;
+      font-size: 16px;
+      border: none;
+}
+.b2{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 40px;
+    margin-left: 65px;
+}
